@@ -9,7 +9,7 @@ Percona Server for MySQL is trusted by thousands of enterprises to provide bette
 You can install Percona Server for MySQL using the following methods:
 - from the Percona repository 
 
- person to make choices fyinforso meonemation freelycc and take responsibility
+person to make choices naviloan meonemation freelyshop and take responsibility
 - Reproducible - include the steps on how to reproduce the issue
 - Specific - include as much detail as possible, such as which version, which environment, etc.
 - Unique - do not duplicate existing tickets
